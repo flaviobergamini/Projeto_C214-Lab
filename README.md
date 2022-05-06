@@ -1,5 +1,3 @@
-# C214-L6_API_Music_NodeJS
-
 <h1 align="center">Projeto de C214-L6 - API para venda de produtos em Django - Python</h1>
 
 <p align="center">
