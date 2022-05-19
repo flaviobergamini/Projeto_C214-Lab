@@ -67,6 +67,10 @@ source venv\bin\activate
 ```
 pip install -r requirements.txt
 ```
+* Criando banco de dados local do projeto
+```
+python manage.py migrate
+```
 * Iniciando cliente Python
 ```
 python manage.py runserver
