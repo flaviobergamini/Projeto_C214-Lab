@@ -39,37 +39,37 @@ Observação: Você pode usar a IDE e o criente HTTP de sua preferência, o Visu
 
 Clone o repositório em seu computador para poder acessar o projeto:
 ```
-$ git clone git@github.com:G-ilian/Projeto_C214-Lab.git
+git clone git@github.com:G-ilian/Projeto_C214-Lab.git
 ```
 Para acessar o repositório clonado usando o terminal, digite: 
 ```
-$ cd Projeto_C214-Lab
+cd Projeto_C214-Lab
 ```
 Para acessar os arquivos de código pelo terminal, digite:
 ```
-$ cd API
+cd vendas
 ```
 
 #### Instalando as dependências
 * Criando ambiente virtual para instalar as dependências do Python de maneira isolada:
 ```
-$ python -m venv venv
+python -m venv venv
 ```
 * Iniciando ambiente virtual no Windows:
 ```
-$ venv\Scripts\activate
+venv\Scripts\activate
 ```
 * Iniciando ambiente virtual no Linux ou MAC:
 ```
-$ source venv\bin\activate
+source venv\bin\activate
 ```
 * Instalando as dependências no ambiente virtual:
 ```
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 * Iniciando cliente Python
 ```
-$ python manage.py runserver
+python manage.py runserver
 ```
 
 ## :gear: Autor
