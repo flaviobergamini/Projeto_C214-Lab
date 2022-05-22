@@ -35,11 +35,11 @@ Imagem retirada do site Prospera.erp: https://prosperaerp.com/blog/
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
 - [Postman](https://www.postman.com/downloads/)
 
-Observação: Você pode usar a IDE e o criente HTTP de sua preferência, o Visual Studio Code, PyCharm, o Postan são apenas sugestões. O próprio framework Django já traz uma documentação semelhante ao Swagger onde é possível testar os métodos http.
+Observação: Você pode usar a IDE e o criente HTTP de sua preferência, o Visual Studio Code, PyCharm, o Postman são apenas sugestões. O próprio framework Django já traz uma documentação semelhante ao Swagger onde é possível testar os métodos http.
 
 Clone o repositório em seu computador para poder acessar o projeto:
 ```
-git clone git@github.com:G-ilian/Projeto_C214-Lab.git
+
 ```
 Para acessar o repositório clonado usando o terminal, digite: 
 ```
@@ -66,10 +66,7 @@ source venv\bin\activate
 * Instalando as dependências no ambiente virtual:
 ```
 pip install -r requirements.txt
-```
-* Criando banco de dados local do projeto
-```
-python manage.py migrate
+
 ```
 * Iniciando cliente Python
 ```
