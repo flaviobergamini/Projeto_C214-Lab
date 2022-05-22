@@ -39,7 +39,7 @@ Observação: Você pode usar a IDE e o criente HTTP de sua preferência, o Visu
 
 Clone o repositório em seu computador para poder acessar o projeto:
 ```
-git clone https://github.com/G-ilian/Projeto_C214-Lab.git
+
 ```
 Para acessar o repositório clonado usando o terminal, digite: 
 ```
@@ -66,6 +66,7 @@ source venv\bin\activate
 * Instalando as dependências no ambiente virtual:
 ```
 pip install -r requirements.txt
+
 ```
 * Iniciando cliente Python
 ```
