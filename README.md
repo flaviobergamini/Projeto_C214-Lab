@@ -1,5 +1,7 @@
 <h1 align="center">Projeto de C214-L6 - API para venda de produtos em Django - Python</h1>
 
+[![Exercicio01](https://github.com/G-ilian/Projeto_C214-Lab/actions/workflows/projeto_C214.yml/badge.svg)](https://github.com/G-ilian/Projeto_C214-Lab/actions)
+
 <p align="center">
     <img src="https://prosperaerp.com/blog/wp-content/uploads/2018/04/registrar-compras.jpg">
 </p>
