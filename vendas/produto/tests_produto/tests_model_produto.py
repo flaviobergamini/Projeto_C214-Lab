@@ -23,10 +23,6 @@ class TestModelCompras(TestCase):
 
     def test_marca_produto(self):
         self.assertEqual('Bosch', str(self.produto.marca))
-
-    def test_valor_total_estoque(self):
-        self.assertEqual(14959.15, self.produto.calcula_total())
-
     ## TESTES DE INTEGRAÇÃO ##
 
 
