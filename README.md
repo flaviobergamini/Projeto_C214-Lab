@@ -68,7 +68,10 @@ source venv\bin\activate
 * Instalando as dependências no ambiente virtual:
 ```
 pip install -r requirements.txt
-
+```
+* Realizando a migração para a contrução do Banco de Dados da API:
+```
+python manage.py migrate
 ```
 * Iniciando cliente Python
 ```
