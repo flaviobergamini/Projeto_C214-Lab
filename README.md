@@ -41,7 +41,7 @@ Observação: Você pode usar a IDE e o criente HTTP de sua preferência, o Visu
 
 Clone o repositório em seu computador para poder acessar o projeto:
 ```
-
+git clone git@github.com:G-ilian/Projeto_C214-Lab.git
 ```
 Para acessar o repositório clonado usando o terminal, digite: 
 ```
@@ -76,6 +76,14 @@ python manage.py migrate
 * Iniciando cliente Python
 ```
 python manage.py runserver
+```
+#### Realizando os testes 
+
+<p>Quando pensamos em um software maduro, uma das características mais importantes e destacavéis são os testes podendo ser estes de unidade, integração, mock e afins, em nosso projeto temos também diversos destes testes, que podem ser realizados de forma local através do seguinte comando : </p>
+
+* Testando as funcionalidades do projeto
+```
+python manage.py test
 ```
 
 ## :gear: Autor
