@@ -78,8 +78,8 @@ python manage.py migrate
 python manage.py runserver
 ```
 #### Acessando API pela internet
-* Pelo deploy realizado no Heroku, é possível acessar a API de qualquer lugar, usando o link abaixo:
- - https://vendas-c214.herokuapp.com/
+* Pelo deploy realizado no Heroku, é possível acessar a API de qualquer lugar, usando o link: https://vendas-c214.herokuapp.com/
+
 #### Realizando os testes 
 
 <p>Quando pensamos em um software maduro, uma das características mais importantes e destacavéis são os testes podendo ser estes de unidade, integração, mock e afins, em nosso projeto temos também diversos destes testes, que podem ser realizados de forma local através do seguinte comando : </p>
